@@ -4,3 +4,4 @@ Hopefully I will make it through.
 #How to restore something when it is added to the staged area
 git restore --staged names.txt
 Check History : git log
+Go back to a particular commit : git reset commit-id
